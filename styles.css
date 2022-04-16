@@ -2,6 +2,8 @@ body {
   margin: 0;
   padding: 0;
   background: #14495e;
+  height: 100vh;
+  cursor: url('./images/bee.png'), auto;
 }
 
 .eyes {
@@ -31,3 +33,11 @@ body {
   transform: translate(-50%, -50%);
   border-radius: 50%;
 }
+
+.attributeIcon {
+  position:absolute;
+  bottom:0;
+  right:0;
+  opacity: .5;
+}
+
