@@ -3,7 +3,7 @@ body {
   padding: 0;
   background: #14495e;
   height: 100vh;
-  cursor: url('./images/bee.png'), auto;
+  cursor: url('../images/bee.png'), auto;
 }
 
 .eyes {
